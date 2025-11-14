@@ -1,1 +1,1 @@
-**[https://idziamko.github.io/goit-markup-hw-01/]**
+**[https://grytsaidmitry.github.io/goit-markup-hw-01]**
